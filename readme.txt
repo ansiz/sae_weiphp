@@ -15,7 +15,7 @@
 
               332191120@qq.com
               github.com/ansiz
-              ansiz.github.io
+              anisz.sinaapp.com
               
               committed by zxh    /2014年10月21日
               
